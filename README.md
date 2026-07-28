@@ -1,12 +1,16 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Francisco Edvando Sousa
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Francisco+Edvando+Sousa;Fesousa;Python+Developer+in+Progress;Welcome+to+my+GitHub."/>
 
-### 🐍 Python Developer in Progress
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+Python.;Fortalecendo+minha+base.;Futuros+projetos+virão+por+aqui."/>
+<br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+# ⚡ Fesousa
+
+### 🐍 Desenvolvedor Python Iniciante
+
+<img src="https://komarev.com/ghpvc/?username=Fesousa&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -14,27 +18,54 @@
 
 # 👨‍💻 Sobre mim
 
-Olá! Meu nome é **Francisco Edvando Sousa**, mas pode me chamar de **Fesousa**.
+```python
+class Fesousa:
 
-Sou iniciante na programação e atualmente estou focado em **Python**, fortalecendo minha base para futuramente entrar na área como **Desenvolvedor Python Júnior**.
+    nome = "Francisco Edvando Sousa"
 
-Também gosto de **C#** e tenho interesse em aprender cada vez mais sobre as duas linguagens.
+    idade = 19
 
-Este GitHub será o lugar onde vou publicar meus projetos, acompanhar minha evolução e registrar minha jornada como desenvolvedor.
+    pais = "Brasil"
+
+    foco = "Python"
+
+    interesse = [
+        "Python",
+        "C#"
+    ]
+
+    objetivo = "Construindo uma base sólida em Python para iniciar minha carreira como Desenvolvedor."
+```
+
+Atualmente estou fortalecendo minha base em **Python**, estudando programação e desenvolvendo projetos para evoluir cada vez mais.
+
+Este GitHub reúne meus **projetos**, **estudos** e minha **evolução como desenvolvedor**.
+
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Python Júnior**.
 
 ---
 
-# 🚀 Tecnologias
+# 🛠 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cs,vscode"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 🌎 Idiomas
+
+🇧🇷 **Português** — Nativo
+
+🇺🇸 **Inglês** — Básico
+
+🇯🇵 **Japonês** — Básico *(JLPT N5)*
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
@@ -46,8 +77,6 @@ Este GitHub será o lugar onde vou publicar meus projetos, acompanhar minha evol
 
 ---
 
-# 🔥 Sequência de Contribuições
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Fesousa&theme=tokyonight&hide_border=true"/>
@@ -56,16 +85,24 @@ Este GitHub será o lugar onde vou publicar meus projetos, acompanhar minha evol
 
 ---
 
-# 📫 Contato
+<div align="center">
 
-📱 **WhatsApp:** **11 95705-2889**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fesousa&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📞 Contato
+
+📱 **WhatsApp:** **+55 11 95705-2889**
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+## 💻 "Cada projeto é um passo mais perto da minha primeira oportunidade."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=130&section=footer"/>
 
 </div>
