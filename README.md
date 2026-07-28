@@ -6,17 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=DESENVOLVEDOR+INICIANTE;APRENDENDO+PYTHON+🐍;AUTOMAÇÃO+E+IA+EM+EXPLORAÇÃO;CRIANDO+MEU+FUTURO+PASSO+A+PASSO"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Construindo+meus+primeiros+projetos;Aprendendo+Python;Evoluindo+como+desenvolvedor"/>
-
-</div>
-
-
-<br>
-
-
-<div align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/FESOUSA.DEV-ONLINE-38BDF8?style=for-the-badge&logo=github"/>
 
@@ -88,8 +78,8 @@ PRÓXIMO OBJETIVO:
 🤖 Inteligência Artificial
 
 
-</td>
 
+</td>
 
 </tr>
 
@@ -125,17 +115,13 @@ Meu objetivo é evoluir constantemente, aprender novas tecnologias e me tornar u
 
 <div align="center">
 
-
 <img src="https://img.shields.io/badge/Python-Desenvolvimento-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Automação-Scripts-38BDF8?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Inteligência%20Artificial-Explorando-7C3AED?style=for-the-badge"/>
 
-
 </div>
-
-
 <br><br>
 
 
@@ -205,7 +191,7 @@ de jogos
 
 <br>
 
-<b>IA</b>
+<b>Inteligência Artificial</b>
 
 <br><br>
 
@@ -234,35 +220,37 @@ novas tecnologias
 <br>
 
 
+<div align="center">
 
-2026
 
-INÍCIO
-
-↓
-
-Fundamentos de Programação
+🚀 2026
 
 ↓
 
-Aprendendo Python
+🌱 Começando na programação
 
 ↓
 
-Criando Primeiros Projetos
+🐍 Aprendendo Python
 
 ↓
 
-Automação
+💻 Criando meus primeiros projetos
 
 ↓
 
-Inteligência Artificial
+⚙️ Desenvolvendo automações
 
 ↓
 
-Desenvolvedor de Software
+🤖 Explorando Inteligência Artificial
 
+↓
+
+🚀 Evoluindo como desenvolvedor
+
+
+</div>
 
 
 <br><br>
@@ -281,34 +269,32 @@ Desenvolvedor de Software
 <div align="center">
 
 
-🇧🇷
-
-### Português
-
-Nativo
+<img src="https://img.shields.io/badge/🇧🇷%20Português-Nativo-22C55E?style=for-the-badge"/>
 
 
-<br>
+<br><br>
 
 
-🇯🇵
-
-### Japonês
-
-Nível N5
+<img src="https://img.shields.io/badge/🇯🇵%20Japonês-N5-EF4444?style=for-the-badge"/>
 
 
-<br>
+<br><br>
 
 
-🇺🇸
-
-### Inglês
-
-Básico
+<img src="https://img.shields.io/badge/🇺🇸%20Inglês-Básico-2563EB?style=for-the-badge"/>
 
 
 </div>
+
+
+<br>
+
+
+Também gosto de aprender idiomas e conhecer novas culturas.
+
+Tenho conhecimento básico de japonês em nível **N5** e continuo evoluindo aos poucos.
+
+Meu inglês ainda está no começo, mas estou trabalhando para melhorar minha comunicação.
 
 
 <br><br>
@@ -324,7 +310,7 @@ Básico
 <br>
 
 
-Atualmente estou criando projetos para praticar programação e melhorar minhas habilidades.
+Atualmente estou criando projetos para praticar programação e desenvolver minhas habilidades.
 
 
 <div align="center">
@@ -332,15 +318,15 @@ Atualmente estou criando projetos para praticar programação e melhorar minhas 
 
 ⚙️ Ferramentas de Automação
 
-<br>
+<br><br>
 
-🤖 Experimentos com IA
+🤖 Experimentos com Inteligência Artificial
 
-<br>
+<br><br>
 
 🎮 Desenvolvimento de Jogos
 
-<br>
+<br><br>
 
 💻 Aplicações Pessoais
 
@@ -353,7 +339,7 @@ Atualmente estou criando projetos para praticar programação e melhorar minhas 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=ESTATÍSTICAS%20GITHUB&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=OBJETIVOS&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -361,30 +347,55 @@ Atualmente estou criando projetos para praticar programação e melhorar minhas 
 <br>
 
 
-<div align="center">
+<table align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edvandooo&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=7C3AED"/>
+<tr>
 
-<br><br>
+<td align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvandooo&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8"/>
+🚀
 
-</div>
+<br>
 
-
-<br><br>
-
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=APRENDENDO;CRIANDO;EVOLUINDO;UM+PASSO+DE+CADA+VEZ"/>
-
+<b>Evoluir na programação</b>
 
 <br><br>
 
+Melhorar lógica e fundamentos
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:020617&height=160&section=footer&animation=twinkling"/>
+</td>
 
 
-</div>
+<td align="center">
+
+🐍
+
+<br>
+
+<b>Dominar Python</b>
+
+<br><br>
+
+Criar projetos reais
+
+</td>
+
+
+<td align="center">
+
+🤖
+
+<br>
+
+<b>Aprender IA</b>
+
+<br><br>
+
+Explorar novas tecnologias
+
+</td>
+
+
+</tr>
+
+</table>
