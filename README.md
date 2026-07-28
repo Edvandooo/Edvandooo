@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=BEGINNER+SOFTWARE+DEVELOPER;PYTHON+DEVELOPER+IN+TRAINING;AUTOMATION+%26+AI+EXPLORER;BUILDING+MY+FUTURE+STEP+BY+STEP"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=DESENVOLVEDOR+INICIANTE;APRENDENDO+PYTHON+🐍;AUTOMAÇÃO+E+IA+EM+EXPLORAÇÃO;CRIANDO+MEU+FUTURO+PASSO+A+PASSO"/>
 
 <br><br>
 
@@ -20,9 +20,9 @@
 
 <img src="https://img.shields.io/badge/FESOUSA.DEV-ONLINE-38BDF8?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/19_YEARS-BRAZIL-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/19_ANOS-BRASIL-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/BEGINNER_DEVELOPER-LEARNING_MODE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESENVOLVEDOR_INICIANTE-EM_EVOLUÇÃO-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -39,26 +39,26 @@
 <td width="50%" align="center">
 
 
-## 👨‍💻 PROFILE
+## 👨‍💻 PERFIL
 
 
-<img src="https://img.shields.io/badge/NAME-Francisco%20Edvando-38BDF8?style=flat-square"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/ALIAS-Fesousa-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NOME-Francisco%20Edvando-38BDF8?style=flat-square"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/COUNTRY-Brazil-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/APELIDO-Fesousa-7C3AED?style=flat-square"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/LEVEL-Beginner%20Developer-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/PAÍS-Brasil-2563EB?style=flat-square"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/FOCUS-Software%20Development-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/NÍVEL-Desenvolvedor%20Iniciante-22C55E?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCO-Desenvolvimento%20de%20Software-F59E0B?style=flat-square"/>
 
 
 </td>
@@ -67,25 +67,25 @@
 <td width="50%" align="center">
 
 
-## 🚀 CURRENT STATUS
+## 🚀 STATUS ATUAL
 
 
 
 STATUS:
 
-🟢 Learning
+🟢 Aprendendo
 
-MAIN LANGUAGE:
+LINGUAGEM PRINCIPAL:
 
 🐍 Python
 
-CURRENT AREA:
+ÁREA ATUAL:
 
-⚙️ Automation
+⚙️ Automação
 
-NEXT TARGET:
+PRÓXIMO OBJETIVO:
 
-🤖 Artificial Intelligence
+🤖 Inteligência Artificial
 
 
 </td>
@@ -103,7 +103,7 @@ NEXT TARGET:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e40af&height=70&text=ABOUT%20ME&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e40af&height=70&text=SOBRE%20MIM&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -111,24 +111,26 @@ NEXT TARGET:
 <br>
 
 
-I'm **Francisco Edvando Sousa**, also known as **Fesousa**.
+Olá! Eu sou **Francisco Edvando Sousa**, também conhecido como **Fesousa**.
 
-I'm a **19-year-old beginner software developer from Brazil**, currently building my foundation in programming.
+Tenho **19 anos** e sou um **desenvolvedor iniciante do Brasil**, construindo minha base na área de tecnologia.
 
-My goal is to understand technology deeply, create real projects and improve every day.
+Atualmente estou estudando programação, melhorando minha lógica e criando projetos para transformar ideias em código.
 
-I am currently focused on:
+Meu objetivo é evoluir constantemente, aprender novas tecnologias e me tornar um desenvolvedor cada vez melhor.
+
 
 <br>
+
 
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Desenvolvimento-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Automation-Scripts-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automação-Scripts-38BDF8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-Exploring-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Inteligência%20Artificial-Explorando-7C3AED?style=for-the-badge"/>
 
 
 </div>
@@ -139,7 +141,7 @@ I am currently focused on:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=TECH%20STACK&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=TECNOLOGIAS&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -171,11 +173,11 @@ I am currently focused on:
 
 <br><br>
 
-Main language
+Programação
 
-Automation
+Automação
 
-Projects
+Projetos
 
 </td>
 
@@ -190,9 +192,9 @@ Projects
 
 <br><br>
 
-Game development
+Desenvolvimento
 
-Learning engine
+de jogos
 
 </td>
 
@@ -203,13 +205,13 @@ Learning engine
 
 <br>
 
-<b>AI</b>
+<b>IA</b>
 
 <br><br>
 
-Exploring
+Explorando
 
-Future skills
+novas tecnologias
 
 </td>
 
@@ -224,7 +226,7 @@ Future skills
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:2563eb&height=70&text=DEVELOPER%20JOURNEY&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:2563eb&height=70&text=MINHA%20JORNADA&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -235,31 +237,31 @@ Future skills
 
 2026
 
-START
+INÍCIO
 
 ↓
 
-Programming Fundamentals
+Fundamentos de Programação
 
 ↓
 
-Python Development
+Aprendendo Python
 
 ↓
 
-First Real Projects
+Criando Primeiros Projetos
 
 ↓
 
-Automation Systems
+Automação
 
 ↓
 
-Artificial Intelligence
+Inteligência Artificial
 
 ↓
 
-Software Developer
+Desenvolvedor de Software
 
 
 
@@ -268,7 +270,7 @@ Software Developer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=LANGUAGES&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=IDIOMAS&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -281,9 +283,9 @@ Software Developer
 
 🇧🇷
 
-### Portuguese
+### Português
 
-Native
+Nativo
 
 
 <br>
@@ -291,9 +293,9 @@ Native
 
 🇯🇵
 
-### Japanese
+### Japonês
 
-N5 Level
+Nível N5
 
 
 <br>
@@ -301,46 +303,9 @@ N5 Level
 
 🇺🇸
 
-### English
+### Inglês
 
-Beginner
-
-
-</div>
-
-
-<br><br>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1d4ed8&height=70&text=PROJECTS&fontSize=35&fontColor=ffffff"/>
-
-</div>
-
-
-<br>
-
-
-Currently building projects to practice programming and transform ideas into code.
-
-
-<div align="center">
-
-
-⚙️ Automation Tools
-
-<br>
-
-🤖 AI Experiments
-
-<br>
-
-🎮 Game Development
-
-<br>
-
-💻 Personal Applications
+Básico
 
 
 </div>
@@ -351,7 +316,44 @@ Currently building projects to practice programming and transform ideas into cod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=GITHUB%20DATABASE&fontSize=35&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1d4ed8&height=70&text=PROJETOS&fontSize=35&fontColor=ffffff"/>
+
+</div>
+
+
+<br>
+
+
+Atualmente estou criando projetos para praticar programação e melhorar minhas habilidades.
+
+
+<div align="center">
+
+
+⚙️ Ferramentas de Automação
+
+<br>
+
+🤖 Experimentos com IA
+
+<br>
+
+🎮 Desenvolvimento de Jogos
+
+<br>
+
+💻 Aplicações Pessoais
+
+
+</div>
+
+
+<br><br>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:7c3aed&height=70&text=ESTATÍSTICAS%20GITHUB&fontSize=35&fontColor=ffffff"/>
 
 </div>
 
@@ -376,7 +378,7 @@ Currently building projects to practice programming and transform ideas into cod
 <div align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=LEARNING;BUILDING;IMPROVING;EVOLVING"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=APRENDENDO;CRIANDO;EVOLUINDO;UM+PASSO+DE+CADA+VEZ"/>
 
 
 <br><br>
