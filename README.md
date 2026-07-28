@@ -1,55 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:111827,100:312e81&height=260&section=header&text=F.E%20SOUSA&fontSize=90&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,30:172554,60:312e81,100:020617&height=320&section=header&text=Fesousa&fontSize=110&fontColor=ffffff&animation=twinkling"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&lines=booting+developer.exe...;Francisco+Edvando+Sousa;19+y%2Fo+%7C+Brazil;learning+python+in+a+digital+dream;building+ideas+into+code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Fesousa.exe+started;Beginner+Developer;Learning+Python+🐍;Exploring+Automation+⚙️;Entering+the+world+of+AI+🤖;Building+my+future+step+by+step"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800"/>
 
 </div>
 
 
-<br><br>
+<br>
 
 
 <div align="center">
 
 
-╔══════════════════════════════╗
-F.E SOUSA SYSTEM
-╚══════════════════════════════╝
-
-status: learning
-language: python
-location: brazil
-age: 19
-
-loading new skills...
+╭──────────────────────────────╮
+│ FESOUSA SYSTEM │
+├──────────────────────────────┤
+│ NAME : Francisco Edvando │
+│ ALIAS : Fesousa │
+│ AGE : 19 │
+│ LOCATION : Brazil 🇧🇷 │
+│ STATUS : Beginner Dev │
+│ MISSION : Keep improving │
+╰──────────────────────────────╯
 
 
 </div>
 
 
----
-
-# 🌙 About me
+<br>
 
 
-Hello, I'm **Francisco Edvando Sousa**.
+# 🌙 About Me
 
-Also known as **F.E Sousa**.
+
+Hello, I'm **Francisco Edvando Sousa**, also known as **Fesousa**.
 
 I'm a **19-year-old beginner developer from Brazil**, currently starting my journey in software development.
 
-I'm learning step by step, creating projects, improving my logic and understanding how technology can transform ideas into real things.
+I'm still learning and improving every day.
+
+My goal is not only to learn programming languages, but to understand how technology works, create projects and transform ideas into real applications.
 
 
-My current focus:
-
+Currently exploring:
 
 
 🐍 Python Development
@@ -64,87 +64,95 @@ My current focus:
 
 ---
 
-# 🐍 Current Learning
-
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="90"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Loading+skills...;Learning+new+things...;Improving+every+day..."/>
 
 </div>
 
 
+# 🧠 Skill Loading...
 
-Python █████░░░░░ Beginner
 
-Automation ████░░░░░░ Learning
 
-Artificial AI ███░░░░░░░ Exploring
+🐍 Python
 
-Programming ████░░░░░░ Improving
+████░░░░░░ Beginner
+
+⚙️ Automation
+
+███░░░░░░░ Learning
+
+🤖 Artificial Intelligence
+
+██░░░░░░░░ Exploring
+
+💻 Programming Logic
+
+████░░░░░░ Improving
 
 
 
 ---
 
-# ☁️ Beyond Code
+# 🚀 Current Journey
+
+
+I'm currently at the beginning of my programming journey.
+
+Every project is a new opportunity to learn something different.
+
+My current focus is building a strong foundation:
+
+
+Idea
+↓
+Learning
+↓
+Practice
+↓
+Projects
+↓
+Experience
+↓
+Improvement
+
+
+
+---
+
+# 🌎 Languages.exe
 
 
 <div align="center">
 
 
-"Learning is another way of exploring worlds."
+🇧🇷 Portuguese
+
+██████████ Native
+
+🇯🇵 Japanese
+
+██░░░░░░░░ N5 Level
+
+🇺🇸 English
+
+██░░░░░░░░ Beginner
 
 
 </div>
 
 
-Besides programming, I enjoy learning languages and exploring different cultures.
+I also enjoy learning languages and discovering new cultures.
 
+Japanese is one of my interests, and I have basic knowledge around **N5 level**.
 
-🇯🇵 Japanese:
-
-I have basic knowledge of Japanese (**N5 level**) and continue improving over time.
-
-
-🇺🇸 English:
-
-Currently learning English from the basics and working to improve my communication skills.
+I'm also learning English from the basics and improving little by little.
 
 
 ---
 
-# 🖥️ My Developer Journey
-
-
-
-2026
-
-    ↓
-
-Started learning programming
-
-    ↓
-
-Learning Python
-
-    ↓
-
-Creating my first projects
-
-    ↓
-
-Exploring automation and AI
-
-    ↓
-
-Improving every day
-
-
-
----
-
-# 🌌 Interests
+# 🎮 Interests
 
 
 
@@ -158,29 +166,51 @@ Improving every day
 
 🎮 Game Development
 
-🌎 Languages and technology
+🌎 Languages & Technology
 
 
 
 ---
 
-# 🎮 Projects
+# 🛠️ Technologies I'm Learning
 
 
-Currently building projects to practice programming and transform ideas into applications.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,godot,gdscript&theme=dark"/>
+
+</div>
 
 
-Some areas I want to explore:
+<br>
 
+
+
+🐍 Python → Programming & Automation
+
+🎮 Godot → Game Development
+
+📜 GDScript → Game Logic
+
+
+
+---
+
+# 📂 Projects
+
+
+I'm currently creating projects to improve my skills and understand programming better.
+
+My goal is to keep building:
 
 
 ⚙️ Automation tools
 
 🤖 AI experiments
 
-🎮 Game development
+🎮 Game projects
 
-💻 Personal software projects
+💻 Personal applications
 
 
 
@@ -206,15 +236,23 @@ Some areas I want to explore:
 
 
 
-╭────────────────────────╮
-keep learning.exe
-keep building.exe
-keep improving.exe
-╰────────────────────────╯
+╭──────────────────────────╮
+│ │
+│ keep learning.exe │
+│ keep building.exe │
+│ keep improving.exe │
+│ │
+╰──────────────────────────╯
 
 
 
 <br>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Beginner+today;Better+tomorrow;Always+evolving"/>
+
+
+<br><br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:020617&height=140&section=footer"/>
