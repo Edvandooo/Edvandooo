@@ -1,30 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=FE%20SOUSA&fontSize=70&fontColor=ffffff&animation=fadeIn&color=0:000000,100:0F4C81"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,100:0B5FFF&text=FE%20SOUSA&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 Olá, eu sou o **Francisco Edvando Sousa**
+<h1>👋 Olá, seja bem-vindo!</h1>
 
-### 🐍 Desenvolvedor Python Iniciante
+<h3>🐍 Desenvolvedor Python Iniciante</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;19+anos+%7C+Brasil;Fortalecendo+minha+base+em+Python.;Em+busca+da+primeira+vaga+como+Desenvolvedor."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Francisco+Edvando+Sousa;19+anos+%7C+Brasil;Fortalecendo+minha+base+em+Python.;Construindo+meu+futuro+um+projeto+de+cada+vez."/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 👨🏻‍💻 Sobre mim
 
-- 🇧🇷 Brasil
-- 🎂 19 anos
-- 🐍 Desenvolvedor Python Iniciante
-- 📚 Fortalecendo minha base em Python
-- 💼 Em busca da primeira oportunidade como Desenvolvedor
+Olá! Eu sou **Francisco Edvando Sousa**, conhecido como **Fesousa**.
 
-> Este GitHub reúne meus projetos, estudos e minha evolução como desenvolvedor.
+Tenho **19 anos** e moro no **Brasil**.
+
+Atualmente estou focado em aprender **Python**, fortalecendo minha base em programação através de estudos e projetos pessoais.
+
+Meu objetivo é evoluir constantemente até conquistar minha primeira oportunidade como **Desenvolvedor Python Júnior**.
+
+Este GitHub será o lugar onde vou compartilhar minha evolução, meus estudos e todos os projetos que desenvolver ao longo dessa jornada.
 
 ---
 
-## 💻 Ferramentas
+# 🚀 Tecnologias
 
 <div align="center">
 
@@ -34,46 +36,56 @@
 
 ---
 
-## 🌎 Idiomas
+# 🌎 Idiomas
 
-🇧🇷 Português — Nativo
-
-🇺🇸 Inglês — Básico
-
-🇯🇵 Japonês — Básico *(JLPT N5)*
+| Idioma | Nível |
+|---------|-------|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Básico |
+| 🇯🇵 Japonês | Básico (JLPT N5) |
 
 ---
 
-## 📈 GitHub
+# 📂 O que você vai encontrar aqui
+
+📌 Projetos desenvolvidos durante meus estudos.
+
+📌 Exercícios e desafios de programação.
+
+📌 Aplicações criadas para praticar Python.
+
+📌 Minha evolução como desenvolvedor.
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fesousa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fesousa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesousa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Fesousa&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fesousa&theme=tokyo-night&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesousa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📞 Contato
+# 📫 Contato
 
-📱 **WhatsApp:** +55 11 95705-2889
+📱 **WhatsApp**
+
+```text
++55 (11) 95705-2889
+```
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+## ⭐ Obrigado por visitar meu perfil!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:000000,100:0F4C81"/>
+Seja bem-vindo aos meus projetos.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:050816,100:0B5FFF"/>
 
 </div>
