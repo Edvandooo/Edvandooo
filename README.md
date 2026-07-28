@@ -15,7 +15,6 @@
   🇧🇷 Brazil • 19 years old
 </p>
 
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+Python+🐍;Building+my+first+projects;Exploring+Automation+⚙️;Improving+every+day+🚀"/>
@@ -29,17 +28,22 @@
 
 Hello! I'm **Francisco Edvando Sousa**, also known as **F.E Sousa**.
 
-I'm a **19-year-old beginner developer** starting my journey in programming.
+I'm a **19-year-old beginner developer from Brazil**, currently starting my journey in software development.
 
-Currently, I'm focused on learning **Python**, improving my programming logic and creating projects to practice my skills.
+I'm focused on learning **Python**, improving my programming logic and creating projects to develop my skills.
 
-My main interests are:
+My current interests:
 
 🐍 Python Development  
 ⚙️ Automation Systems  
 🤖 Artificial Intelligence  
 
-I'm constantly learning, experimenting and working to become a better developer step by step.
+
+🌎 Besides programming, I enjoy learning languages.
+
+🇯🇵 I have basic knowledge of Japanese (**N5 level**) and continue improving over time.
+
+🇺🇸 I'm currently learning English from the basics and working to improve my communication skills.
 
 
 ---
@@ -71,8 +75,8 @@ I'm constantly learning, experimenting and working to become a better developer 
 |---|---|
 | 🐍 Python | Improve my skills and create projects |
 | ⚙️ Automation | Build tools that solve problems |
-| 🤖 AI | Learn how intelligent systems work |
-| 📚 Growth | Keep improving as a developer |
+| 🤖 AI | Understand and explore intelligent systems |
+| 📚 Learning | Keep improving every day |
 
 </div>
 
@@ -90,23 +94,11 @@ I'm constantly learning, experimenting and working to become a better developer 
 </div>
 
 
-<br>
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edvandooo&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
-
-</div>
-
-
 ---
 
-## ⚡ Final Message
-
 <div align="center">
 
-**Learning, building and improving every day. 🚀**
+⚡ **Learning, building and improving step by step.**
 
 </div>
 
