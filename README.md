@@ -1,83 +1,74 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,100:005CFF&text=FE%20SOUSA&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,100:0B5FFF&text=FE%20SOUSA&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
 
-<h1>👋 Olá, eu sou <strong>Francisco Edvando Sousa</strong></h1>
+<h1>👋 Olá, eu sou Francisco Edvando Sousa</h1>
 
-<h3>🐍 Desenvolvedor Python em Formação</h3>
+<h3>🐍 Desenvolvedor Python Iniciante</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=850&lines=19+anos+%7C+Brasil;Fortalecendo+minha+base+em+Python.;Construindo+projetos.;Em+busca+da+primeira+oportunidade+como+Desenvolvedor."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;19+anos+%7C+Brasil;Fortalecendo+minha+base+em+Python.;Construindo+meu+futuro+um+projeto+de+cada+vez."/>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨🏻‍💻 Sobre mim
 
-Olá! Me chamo **Francisco Edvando Sousa**, mas pode me chamar de **Fesousa**.
+Olá! Meu nome é **Francisco Edvando Sousa**, mas pode me chamar de **Fesousa**.
 
-Tenho **19 anos** e atualmente estou focado em fortalecer minha base em **Python**.
+Tenho **19 anos** e sou um **Desenvolvedor Python Iniciante**.
 
-Meu objetivo é evoluir constantemente através de estudos e projetos até conquistar minha primeira oportunidade como desenvolvedor.
+Atualmente estou fortalecendo minha base em **Python**, estudando lógica de programação e desenvolvendo projetos para evoluir cada vez mais.
 
-Este GitHub reúne meus projetos, estudos e toda a minha evolução durante essa jornada.
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor**.
+
+Este GitHub reúne meus **projetos**, **estudos** e minha **evolução como desenvolvedor**.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,vscode" />
+<img src="https://skillicons.dev/icons?i=python,vscode"/>
 
 </div>
 
 ---
 
-## 🌎 Idiomas
+# 🌎 Idiomas
 
 <div align="center">
 
 | Idioma | Nível |
-|:-------:|:----:|
+|:------:|:-----:|
 | 🇧🇷 Português | Nativo |
 | 🇺🇸 Inglês | Básico |
-| 🇯🇵 Japonês | Básico (JLPT N5) |
+| 🇯🇵 Japonês | Básico *(JLPT N5)* |
 
 </div>
 
 ---
 
-## 📂 Repositórios
+# 📂 O que você vai encontrar aqui
 
-Este perfil será utilizado para publicar:
+✨ Projetos desenvolvidos durante meus estudos.
 
-- 🐍 Projetos em Python
-- 📚 Exercícios e desafios
-- 💡 Estudos e experimentos
-- 🚀 Projetos futuros
+📚 Exercícios e desafios de programação.
 
----
+🐍 Projetos feitos em Python.
 
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fesousa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fesousa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+🚀 Minha evolução como desenvolvedor.
 
 ---
 
-## 📫 Contato
+# 📞 Contato
 
 <div align="center">
 
-📱 **WhatsApp**
+### WhatsApp
 
-**+55 (11) 95705-2889**
+📱 **+55 (11) 95705-2889**
 
 </div>
 
@@ -85,10 +76,8 @@ Este perfil será utilizado para publicar:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### ⭐ Obrigado pela visita!
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:050816,100:005CFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:050816,100:0B5FFF"/>
 
 </div>
