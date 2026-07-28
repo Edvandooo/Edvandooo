@@ -1,25 +1,27 @@
-## Hello, I'm Francisco Edvando Sousa (F.E Sousa) 👋
+<h1 align="center">
+  Hi 👋, I'm Francisco Edvando Sousa
+</h1>
 
-💻 19 years old, passionate about technology and software development
+<h3 align="center">
+  🐍 Python Developer in progress | Automation & Artificial Intelligence
+</h3>
 
-🐍 Currently learning Python, focusing on Automation and Artificial Intelligence
+<p align="center">
+  19 years old • Brazil 🇧🇷 • Software Development Student
+</p>
 
-🚀 Building my first projects and developing my skills as a programmer
+---
 
-🎯 My goal is to work with Python in the automation and AI fields
+## 🧑‍💻 About Me
 
-📚 Always learning, experimenting and turning ideas into code
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Francisco Edvando Sousa"
+        self.age = 19
+        self.focus = ["Python", "Automation", "Artificial Intelligence"]
 
-<br>
+    def goal(self):
+        return "Building solutions and growing as a developer"
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Edvando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://github.com/Edvandooo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
+me = Developer()
