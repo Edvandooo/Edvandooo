@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+Python+🐍;Building+my+first+projects;Exploring+Automation;Improving+every+day"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Learning+Python+🐍;Building+my+first+projects;Exploring+Automation+⚙️;Improving+every+day+🚀"/>
 
 </div>
 
@@ -64,7 +64,9 @@ My current interests:
 
 🐍 Python <br>
 ⚙️ Automation <br>
-🤖 Artificial Intelligence
+🤖 Artificial Intelligence <br>
+🇯🇵 Japanese (N5) <br>
+🇺🇸 English (Beginner)
 
 </p>
 
@@ -75,29 +77,34 @@ My current interests:
 
 <div align="center">
 
-| Goal | Description |
-|---|---|
-| 🐍 Python | Improve my skills and create projects |
-| ⚙️ Automation | Build useful tools |
-| 🤖 AI | Explore intelligent solutions |
-| 📚 Learning | Improve every day |
+🚀 Improve my programming skills
+
+<br>
+
+🐍 Create useful projects with Python
+
+<br>
+
+⚙️ Develop automation tools
+
+<br>
+
+🤖 Learn more about Artificial Intelligence
+
+<br>
+
+📚 Keep learning and improving every day
 
 </div>
 
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 My Journey
 
-<div align="center">
+I'm currently at the beginning of my programming journey.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Edvandooo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvandooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=FFFFFF"/>
-
-</div>
+My goal is to keep practicing, building projects and improving step by step until I become a better developer.
 
 
 ---
