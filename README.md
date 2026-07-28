@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=DESENVOLVEDOR+INICIANTE;APRENDENDO+PYTHON+🐍;AUTOMAÇÃO+E+IA+EM+EXPLORAÇÃO;CRIANDO+MEU+FUTURO+PASSO+A+PASSO"/>
 
-<br><br>
+<br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Construindo+meus+primeiros+projetos;Aprendendo+Python;Evoluindo+como+desenvolvedor"/>
 
 </div>
 
