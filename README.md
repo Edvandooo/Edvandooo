@@ -1,12 +1,14 @@
-## Olá, eu sou Francisco Edvando Sousa (F.E Sousa) 👋
+## Hello, I'm Francisco Edvando Sousa (F.E Sousa) 👋
 
-💻 Estudante de Desenvolvimento de Software
+💻 19 years old, passionate about technology and software development
 
-🐍 Atualmente aprendendo Python com foco em **Automação** e **Inteligência Artificial**
+🐍 Currently learning Python, focusing on Automation and Artificial Intelligence
 
-🚀 Criando projetos para evoluir minhas habilidades e transformar ideias em código
+🚀 Building my first projects and developing my skills as a programmer
 
-📚 Sempre buscando aprender novas tecnologias e melhorar como desenvolvedor
+🎯 My goal is to work with Python in the automation and AI fields
+
+📚 Always learning, experimenting and turning ideas into code
 
 <br>
 
