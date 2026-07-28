@@ -15,7 +15,7 @@
 <!-- HERO / APRESENTAÇÃO -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Francisco+Edvando;Python+Developer+em+forma%C3%A7%C3%A3o;Automação+%2B+Inteligência+Artificial;19+anos+%C2%B7+Brasil" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Francisco+Edvando;Python+Developer+em+forma%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+%2B+Intelig%C3%AAncia+Artificial;19+anos+%C2%B7+Brasil" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -348,9 +348,3 @@
   <br><br>
   <span style="color: #64748B; font-size: 0.75rem;">✧ F.E Sousa · 2026 ✧</span>
 </div>
-
-<!-- 
-  ═══════════════════════════════════════════════════════════════════
-  FIM — README desenvolvido com design premium · UI/UX futurista
-  ═══════════════════════════════════════════════════════════════════
--->
