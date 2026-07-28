@@ -15,13 +15,13 @@
 <!-- HERO / APRESENTAÇÃO -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Francisco+Edvando;Python+Developer+em+forma%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+%2B+Intelig%C3%AAncia+Artificial;19+anos+%C2%B7+Brasil" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Francisco+Edvando;Iniciante+em+Python+%F0%9F%90%8D;Aprendendo+Automa%C3%A7%C3%A3o+e+IA;19+anos+%C2%B7+Brasil" alt="Typing SVG" />
   </h1>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-APRENDENDO%20TODOS%20OS%20DIAS-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
-  <img src="https://img.shields.io/badge/FOCUS-PYTHON%20%7C%20IA-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/FOCUS-PYTHON-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=0F172A" />
   <img src="https://img.shields.io/badge/OBJETIVO-PRIMEIRA%20VAGA%20DEV-2563EB?style=for-the-badge&logo=target&logoColor=white&labelColor=0F172A" />
 </div>
 
@@ -46,8 +46,8 @@
       <br><span style="color: #94A3B8;">19 anos</span>
     </td>
     <td align="center" width="25%" style="background: #0F172A; border-radius: 16px; padding: 12px;">
-      <img src="https://img.shields.io/badge/-Foco-7C3AED?style=flat-square&logo=target&logoColor=white" />
-      <br><strong style="color: #00D9FF;">Foco</strong>
+      <img src="https://img.shields.io/badge/-Interesse-7C3AED?style=flat-square&logo=target&logoColor=white" />
+      <br><strong style="color: #00D9FF;">Interesse</strong>
       <br><span style="color: #94A3B8;">Automação · IA</span>
     </td>
   </tr>
@@ -61,13 +61,13 @@
     <td width="30%" style="background: #0F172A; border-radius: 16px; padding: 20px; vertical-align: top;">
       <h3 style="color: #00D9FF; margin-top: 0;">💻 Sobre mim</h3>
       <p style="color: #CBD5E1; font-size: 0.95rem; line-height: 1.6;">
-        Estudante de desenvolvimento de software, criando projetos para evoluir e transformar ideias em código. 
-        Foco em <strong style="color: #00D9FF;">automação</strong>, <strong style="color: #7C3AED;">IA</strong> e ferramentas práticas.
+        Estudante de desenvolvimento de software, dando os primeiros passos com <strong style="color: #00D9FF;">Python</strong>. 
+        Tenho grande interesse em <strong style="color: #00D9FF;">automação</strong> e <strong style="color: #7C3AED;">Inteligência Artificial</strong>, 
+        e estou construindo minha base para me tornar um desenvolvedor.
       </p>
       <br>
       <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
         <span style="background: #020617; color: #00D9FF; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; border: 1px solid #00D9FF20;">Python</span>
-        <span style="background: #020617; color: #00D9FF; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; border: 1px solid #00D9FF20;">Git</span>
         <span style="background: #020617; color: #00D9FF; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; border: 1px solid #00D9FF20;">GitHub</span>
         <span style="background: #020617; color: #7C3AED; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; border: 1px solid #7C3AED20;">Automação</span>
         <span style="background: #020617; color: #7C3AED; padding: 4px 12px; border-radius: 40px; font-size: 0.7rem; border: 1px solid #7C3AED20;">IA</span>
@@ -81,31 +81,37 @@
         <tr>
           <td width="25%" style="color: #94A3B8; font-weight: 500;">Python</td>
           <td width="75%" style="background: #020617; border-radius: 20px; height: 8px;">
-            <div style="width: 75%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 8px; border-radius: 20px;"></div>
+            <div style="width: 40%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 8px; border-radius: 20px;"></div>
           </td>
         </tr>
         <tr>
           <td style="color: #94A3B8; font-weight: 500;">Git</td>
           <td style="background: #020617; border-radius: 20px; height: 8px;">
-            <div style="width: 60%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 8px; border-radius: 20px;"></div>
+            <div style="width: 15%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 8px; border-radius: 20px;"></div>
+          </td>
+        </tr>
+        <tr>
+          <td style="color: #94A3B8; font-weight: 500;">GitHub</td>
+          <td style="background: #020617; border-radius: 20px; height: 8px;">
+            <div style="width: 25%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 8px; border-radius: 20px;"></div>
           </td>
         </tr>
         <tr>
           <td style="color: #94A3B8; font-weight: 500;">Automação</td>
           <td style="background: #020617; border-radius: 20px; height: 8px;">
-            <div style="width: 45%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 8px; border-radius: 20px;"></div>
+            <div style="width: 10%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 8px; border-radius: 20px;"></div>
           </td>
         </tr>
         <tr>
           <td style="color: #94A3B8; font-weight: 500;">IA</td>
           <td style="background: #020617; border-radius: 20px; height: 8px;">
-            <div style="width: 30%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 8px; border-radius: 20px;"></div>
+            <div style="width: 5%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 8px; border-radius: 20px;"></div>
           </td>
         </tr>
         <tr>
           <td style="color: #94A3B8; font-weight: 500;">Godot</td>
           <td style="background: #020617; border-radius: 20px; height: 8px;">
-            <div style="width: 50%; background: linear-gradient(90deg, #2563EB, #7C3AED); height: 8px; border-radius: 20px;"></div>
+            <div style="width: 15%; background: linear-gradient(90deg, #2563EB, #7C3AED); height: 8px; border-radius: 20px;"></div>
           </td>
         </tr>
       </table>
@@ -116,7 +122,7 @@
 <br>
 
 <!-- LEARNING DASHBOARD -->
-<h3 align="center" style="color: #00D9FF;">📖 Learning Dashboard</h3>
+<h3 align="center" style="color: #00D9FF;">📖 O que estou estudando</h3>
 <br>
 
 <table align="center" width="100%" cellspacing="8">
@@ -125,51 +131,51 @@
       <strong style="color: #F8FAFC;">Python</strong>
       <br>
       <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
-        <div style="width: 75%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 4px; border-radius: 10px;"></div>
+        <div style="width: 40%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 4px; border-radius: 10px;"></div>
       </div>
-      <span style="color: #7C3AED; font-weight: 600;">75%</span>
+      <span style="color: #7C3AED; font-weight: 600;">40%</span>
     </td>
     <td align="center" width="33%" style="background: #0F172A; border-radius: 16px; padding: 16px;">
       <strong style="color: #F8FAFC;">Git</strong>
       <br>
       <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
-        <div style="width: 60%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 4px; border-radius: 10px;"></div>
+        <div style="width: 15%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 4px; border-radius: 10px;"></div>
       </div>
-      <span style="color: #7C3AED; font-weight: 600;">60%</span>
+      <span style="color: #7C3AED; font-weight: 600;">15%</span>
     </td>
     <td align="center" width="33%" style="background: #0F172A; border-radius: 16px; padding: 16px;">
-      <strong style="color: #F8FAFC;">Automação</strong>
+      <strong style="color: #F8FAFC;">GitHub</strong>
       <br>
       <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
-        <div style="width: 45%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 4px; border-radius: 10px;"></div>
+        <div style="width: 25%; background: linear-gradient(90deg, #2563EB, #00D9FF); height: 4px; border-radius: 10px;"></div>
       </div>
-      <span style="color: #2563EB; font-weight: 600;">45%</span>
+      <span style="color: #2563EB; font-weight: 600;">25%</span>
     </td>
   </tr>
   <tr>
     <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px;">
+      <strong style="color: #F8FAFC;">Automação</strong>
+      <br>
+      <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
+        <div style="width: 10%; background: linear-gradient(90deg, #2563EB, #7C3AED); height: 4px; border-radius: 10px;"></div>
+      </div>
+      <span style="color: #2563EB; font-weight: 600;">10%</span>
+    </td>
+    <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px;">
       <strong style="color: #F8FAFC;">IA</strong>
       <br>
       <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
-        <div style="width: 30%; background: linear-gradient(90deg, #2563EB, #7C3AED); height: 4px; border-radius: 10px;"></div>
+        <div style="width: 5%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 4px; border-radius: 10px;"></div>
       </div>
-      <span style="color: #2563EB; font-weight: 600;">30%</span>
+      <span style="color: #7C3AED; font-weight: 600;">5%</span>
     </td>
     <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px;">
       <strong style="color: #F8FAFC;">Godot</strong>
       <br>
       <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
-        <div style="width: 50%; background: linear-gradient(90deg, #7C3AED, #00D9FF); height: 4px; border-radius: 10px;"></div>
+        <div style="width: 15%; background: linear-gradient(90deg, #2563EB, #7C3AED); height: 4px; border-radius: 10px;"></div>
       </div>
-      <span style="color: #7C3AED; font-weight: 600;">50%</span>
-    </td>
-    <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px;">
-      <strong style="color: #F8FAFC;">GDScript</strong>
-      <br>
-      <div style="width: 100%; background: #020617; height: 4px; border-radius: 10px; margin: 8px 0;">
-        <div style="width: 40%; background: linear-gradient(90deg, #2563EB, #7C3AED); height: 4px; border-radius: 10px;"></div>
-      </div>
-      <span style="color: #2563EB; font-weight: 600;">40%</span>
+      <span style="color: #2563EB; font-weight: 600;">15%</span>
     </td>
   </tr>
 </table>
@@ -248,8 +254,8 @@
   </tr>
   <tr>
     <td colspan="2" style="background: #0F172A; border-radius: 16px; padding: 20px; border: 1px solid #00D9FF20;">
-      <h4 style="color: #F8FAFC; margin: 0;">Em progresso: automação · IA · Godot</h4>
-      <p style="color: #94A3B8; font-size: 0.85rem;">Próximos projetos: ferramentas de automação, agentes de IA, jogos em Godot.</p>
+      <h4 style="color: #F8FAFC; margin: 0;">Próximos projetos: automação · IA · Godot</h4>
+      <p style="color: #94A3B8; font-size: 0.85rem;">Ferramentas de automação, agentes de IA, jogos em Godot.</p>
       <span style="background: #020617; color: #2563EB; padding: 4px 12px; border-radius: 30px; font-size: 0.65rem; border: 1px solid #2563EB20;">roadmap</span>
     </td>
   </tr>
@@ -292,33 +298,18 @@
 
 <br>
 
-<!-- CONTRIBUIÇÃO + SNAKE -->
+<!-- VISITORS + TROPHIES -->
 <table width="100%">
   <tr>
-    <td width="70%" style="background: #0F172A; border-radius: 16px; padding: 16px;">
-      <span style="color: #64748B; font-size: 0.6rem; letter-spacing: 0.04em;">CONTRIBUIÇÃO (SIMULADA)</span>
+    <td width="50%" align="center" style="background: #0F172A; border-radius: 16px; padding: 16px;">
+      <span style="color: #64748B; font-size: 0.6rem; letter-spacing: 0.04em;">VISITAS</span>
       <br>
-      <div style="display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px;">
-        <span style="background: #0F172A; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #64748B;">▮</span>
-        <span style="background: #0F172A; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #64748B;">▮</span>
-        <span style="background: #2563EB40; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #2563EB;">▮</span>
-        <span style="background: #00D9FF30; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #00D9FF;">▮</span>
-        <span style="background: #7C3AED30; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #7C3AED;">▮</span>
-        <span style="background: #0F172A; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #64748B;">▮</span>
-        <span style="background: #00D9FF30; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #00D9FF;">▮</span>
-        <span style="background: #0F172A; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #64748B;">▮</span>
-        <span style="background: #2563EB40; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #2563EB;">▮</span>
-        <span style="background: #0F172A; padding: 2px 8px; border-radius: 4px; font-size: 0.6rem; color: #64748B;">▮</span>
-      </div>
+      <img src="https://komarev.com/ghpvc/?username=Edvandooo&color=00D9FF&style=flat-square" alt="visitors" />
     </td>
-    <td width="30%" style="padding-left: 15px;">
-      <div style="background: #0F172A; border-radius: 16px; padding: 16px; display: flex; align-items: center; gap: 10px;">
-        <span style="font-size: 1.5rem;">🐍</span>
-        <div>
-          <span style="color: #64748B; font-size: 0.6rem; letter-spacing: 0.04em;">SNAKE</span>
-          <br><span style="color: #00D9FF; font-size: 0.8rem;">em progresso</span>
-        </div>
-      </div>
+    <td width="50%" align="center" style="background: #0F172A; border-radius: 16px; padding: 16px;">
+      <span style="color: #64748B; font-size: 0.6rem; letter-spacing: 0.04em;">TROFÉUS</span>
+      <br>
+      <img src="https://github-profile-trophy.vercel.app/?username=Edvandooo&theme=darkhub&row=1&column=6&margin-h=8&margin-w=8" width="100%" alt="trophies" />
     </td>
   </tr>
 </table>
@@ -344,7 +335,6 @@
   <br>
   <img src="https://img.shields.io/github/followers/Edvandooo?style=social" />
   <img src="https://img.shields.io/github/stars/Edvandooo?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Edvandooo&color=00D9FF&style=flat-square" alt="visitors" />
   <br><br>
   <span style="color: #64748B; font-size: 0.75rem;">✧ F.E Sousa · 2026 ✧</span>
 </div>
